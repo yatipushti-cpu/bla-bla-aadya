@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "17becd2c-0536-41e7-806d-f6f7c798e3e6",
+      "email": "yatipushti@gmaila.com",
+      "passwordHash": "$2b$10$lrlp6SAfYr.ep3wOQjftSuid7B2AImsDAzWih/ffg1oksC85iflIy",
+      "firstName": "Yati",
+      "lastName": "Pushti",
+      "displayName": "Yati Pushti",
+      "userType": "job_seeker",
+      "createdAt": "2025-09-09T08:23:49.345Z",
+      "updatedAt": "2025-09-09T08:23:52.327Z"
+    },
+    {
+      "id": "04b79d84-2cf6-4ad1-a05d-c317b7af35a9",
+      "email": "yatipushti@gmail.com",
+      "passwordHash": "$2b$10$o6GK1HZt9WuhdRjvZFtnq.fjMYBgunlT7yritny6Dilqs7ghqmymK",
+      "firstName": "Yatii",
+      "lastName": "Pushtii",
+      "displayName": "Yatii Pushtii",
+      "userType": "employer",
+      "createdAt": "2025-09-09T08:25:51.779Z",
+      "updatedAt": "2025-09-09T08:32:27.596Z"
+    }
+  ],
+  "jobSeekerProfiles": [],
+  "companyProfiles": [
+    {
+      "id": "624e24a5-0aed-456d-bba6-7810c464d261",
+      "userId": "04b79d84-2cf6-4ad1-a05d-c317b7af35a9",
+      "companyName": "Entrenet",
+      "industry": "",
+      "companySize": "",
+      "description": "",
+      "website": "",
+      "location": "",
+      "createdAt": "2025-09-09T08:32:33.164Z",
+      "updatedAt": "2025-09-09T08:32:33.164Z"
+    }
+  ],
+  "jobPostings": [
+    {
+      "id": "76dd0d75-1a24-448f-89ec-fd5683384d30",
+      "companyId": "624e24a5-0aed-456d-bba6-7810c464d261",
+      "title": "fvvsdf",
+      "description": "gfdx",
+      "requirements": "bfvbf",
+      "salaryMin": 345,
+      "salaryMax": 435,
+      "location": "gvsvb",
+      "jobType": "remote",
+      "experienceLevel": "senior",
+      "skills": [
+        "dbgdf"
+      ],
+      "isActive": true,
+      "createdAt": "2025-09-09T08:32:52.743Z",
+      "updatedAt": "2025-09-09T08:32:52.743Z"
+    }
+  ],
+  "jobApplications": [],
+  "messages": [],
+  "sessions": []
+}
